@@ -6,3 +6,4 @@ Pour la phase de détection, nous avons utilisé OpenCV pour détecter les panne
 Notre système de reconnaissance des panneaux de signalisation a obtenu des résultats prometteurs, avec une précision de classification de plus de 95% sur notre ensemble de données de test. Nous avons également intégré notre modèle dans une application en temps réel, permettant de détecter et de classifier les panneaux de signalisation en direct à partir d'une caméra vidéo.
 
 En conclusion, notre projet de Traffic Signs Recognition démontre l'efficacité des techniques de traitement d'images et d'apprentissage automatique pour la reconnaissance des panneaux de signalisation routière. Ce projet pourrait avoir des applications pratiques dans le domaine de la conduite autonome et de la sécurité routière.
+SOURCE: https://data-flair.training/blogs/python-project-traffic-signs-recognition/
